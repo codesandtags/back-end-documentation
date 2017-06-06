@@ -13,3 +13,4 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | SpringBoot latest documentation| https://projects.spring.io/spring-boot/ |
+| Spring Initializr tool| http://start.spring.io/ |
