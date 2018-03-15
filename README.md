@@ -17,6 +17,15 @@
 | Spring Boot and Kotlin | http://www.baeldung.com/spring-boot-kotlin |
 | Security with JWT | https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java|
 
+## Distribuited systems and load balance
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Zuul Gateway - Netflix| https://github.com/Netflix/zuul |
+| Hystrix for latency and fault tolerance  - Netflix| https://github.com/Netflix/Hystrix |
+| Ribbon for Load balancing | https://github.com/Netflix/ribbon/ |
+
+
 ## Mocks / Testing
 | Description   | URL           | 
 | ------------- |:-------------:| 
