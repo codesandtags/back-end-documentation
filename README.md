@@ -31,5 +31,12 @@
 | ------------- |:-------------:| 
 | Great tool to mock services REST/SOAP | http://wiremock.org/ |
 
+## Articles / Principles
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Microservices Implementation | https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917 |
+| Scaling Microservices | https://dev.otto.de/2014/07/29/scaling-with-microservices-and-vertical-decomposition/ |
+
+
 
 
