@@ -15,7 +15,8 @@
 | SpringBoot latest documentation| https://projects.spring.io/spring-boot/ |
 | Spring Initializr tool| http://start.spring.io/ |
 | Spring Boot and Kotlin | http://www.baeldung.com/spring-boot-kotlin |
-| Security with JWT | https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java|
+| Security with JWT | https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java |
+| Added Basic Authentication with Spring | https://memorynotfound.com/spring-security-basic-authentication-configuration-example/ |
 
 ## Distribuited systems and load balance
 
