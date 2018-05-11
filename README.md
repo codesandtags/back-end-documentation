@@ -8,13 +8,19 @@
 | ------------- |:-------------:| 
 | Tool for managing parallel versions of multiple Software Development Kits| http://sdkman.io/ |
 
-## Spring 
+## Spring Boot
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | SpringBoot latest documentation| https://projects.spring.io/spring-boot/ |
 | Spring Initializr tool| http://start.spring.io/ |
 | Spring Boot and Kotlin | http://www.baeldung.com/spring-boot-kotlin |
+
+## Spring Security
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Added Http basic with Spring Security | https://memorynotfound.com/spring-security-basic-authentication-configuration-example/ |
 | Security with JWT | https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java |
 | Added Basic Authentication with Spring | https://memorynotfound.com/spring-security-basic-authentication-configuration-example/ |
 
