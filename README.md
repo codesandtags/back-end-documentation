@@ -33,6 +33,11 @@
 | Ribbon for Load balancing | https://github.com/Netflix/ribbon/ |
 
 
+## Tutorials
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| How to configure Facebook App for Login | https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook |
+
 ## Mocks / Testing
 | Description   | URL           | 
 | ------------- |:-------------:| 
