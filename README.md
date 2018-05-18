@@ -38,11 +38,12 @@
 | ------------- |:-------------:| 
 | How to configure Facebook App for Login | https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook |
 
-## Mocks / Testing
+## Mocks / Testing / Tools
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Great tool to mock services REST/SOAP | http://wiremock.org/ |
 | Mockto Official Site and Documentation | http://site.mockito.org/ |
+| Transform Json to Schemas | http://www.jsonschema2pojo.org/ |
 
 ## Articles / Principles
 | Description   | URL           | 
