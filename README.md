@@ -1,5 +1,5 @@
-# Back End Documentation
-> This is a compilation of information about all topics related with the Front End 
+# Back End Documentation 2018
+> This is a compilation of information about all topics related with the Back End development.
 
 
 ## Java
@@ -38,6 +38,7 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | How to configure Facebook App for Login | https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook |
+| Master IntelliJ and learn some tricks | https://javaspecialists.teachable.com/p/intellij-wizardry/ |
 
 ## Mocks / Testing / Tools
 | Description   | URL           | 
