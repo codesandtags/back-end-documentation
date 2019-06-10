@@ -9,6 +9,16 @@
 | Tool for managing parallel versions of multiple Software Development Kits| http://sdkman.io/ |
 | Online tool to write Java Code | https://www.jdoodle.com/online-java-compiler |
 
+
+## OAuth 2
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Overview OAuth 2| https://www.digitalocean.com/community/tutorials/una-introduccion-a-oauth-2-es |
+| OAuth 2 Oficial documentation | https://oauth.net/2/ |
+
+
+
 ## Spring Boot
 
 | Description   | URL           | 
