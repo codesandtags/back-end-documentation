@@ -70,6 +70,7 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Architecture Cloud Design Patterns | https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends |
+| Back-End For Front-End BFF | https://samnewman.io/patterns/architectural/bff/ |
 
 
 
