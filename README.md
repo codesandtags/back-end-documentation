@@ -66,5 +66,11 @@
 | Spring boot with Eureka and Spring Cloud | https://dzone.com/articles/quick-guide-to-microservices-with-spring-boot-20-e |
 
 
+## Design Patterns
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Architecture Cloud Design Patterns | https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends |
+
+
 
 
