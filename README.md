@@ -64,6 +64,7 @@
 | Microservices Implementation | https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917 |
 | Scaling Microservices | https://dev.otto.de/2014/07/29/scaling-with-microservices-and-vertical-decomposition/ |
 | Spring boot with Eureka and Spring Cloud | https://dzone.com/articles/quick-guide-to-microservices-with-spring-boot-20-e |
+| Hexagonal Architecture principles | http://www.javiervelezreyes.com/ni-nueva-ni-arquitectura-ni-hexagonal/ |
 
 
 ## Design Patterns
